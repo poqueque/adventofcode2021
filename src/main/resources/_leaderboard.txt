@@ -1,0 +1,1527 @@
+{
+  "members": {
+    "1292": {
+      "local_score": 0,
+      "stars": 0,
+      "name": "Stavros Champilomatis",
+      "global_score": 0,
+      "completion_day_level": {
+
+      },
+      "last_star_ts": "0",
+      "id": "1292"
+    },
+    "5778": {
+      "global_score": 0,
+      "name": null,
+      "completion_day_level": {
+
+      },
+      "last_star_ts": "0",
+      "id": "5778",
+      "local_score": 0,
+      "stars": 0
+    },
+    "6173": {
+      "name": "nvojkovic",
+      "global_score": 0,
+      "last_star_ts": 1638536128,
+      "completion_day_level": {
+        "1": {
+          "1": {
+            "get_star_ts": 1638375652
+          },
+          "2": {
+            "get_star_ts": 1638376094
+          }
+        },
+        "2": {
+          "1": {
+            "get_star_ts": 1638484824
+          },
+          "2": {
+            "get_star_ts": 1638485066
+          }
+        },
+        "3": {
+          "1": {
+            "get_star_ts": 1638535057
+          },
+          "2": {
+            "get_star_ts": 1638536128
+          }
+        }
+      },
+      "id": "6173",
+      "local_score": 401,
+      "stars": 6
+    },
+    "14015": {
+      "completion_day_level": {
+
+      },
+      "last_star_ts": "0",
+      "global_score": 0,
+      "name": "Fernando Gasperi",
+      "id": "14015",
+      "local_score": 0,
+      "stars": 0
+    },
+    "27692": {
+      "stars": 8,
+      "local_score": 640,
+      "id": "27692",
+      "name": "riffraff",
+      "global_score": 0,
+      "last_star_ts": 1638597169,
+      "completion_day_level": {
+        "1": {
+          "1": {
+            "get_star_ts": 1638336916
+          },
+          "2": {
+            "get_star_ts": 1638337202
+          }
+        },
+        "2": {
+          "1": {
+            "get_star_ts": 1638421561
+          },
+          "2": {
+            "get_star_ts": 1638421716
+          }
+        },
+        "3": {
+          "1": {
+            "get_star_ts": 1638510064
+          },
+          "2": {
+            "get_star_ts": 1638511752
+          }
+        },
+        "4": {
+          "1": {
+            "get_star_ts": 1638596269
+          },
+          "2": {
+            "get_star_ts": 1638597169
+          }
+        }
+      }
+    },
+    "30340": {
+      "stars": 2,
+      "local_score": 118,
+      "id": "30340",
+      "completion_day_level": {
+        "1": {
+          "1": {
+            "get_star_ts": 1638476781
+          },
+          "2": {
+            "get_star_ts": 1638477705
+          }
+        }
+      },
+      "last_star_ts": 1638477705,
+      "global_score": 0,
+      "name": "Francisco Soares"
+    },
+    "52016": {
+      "last_star_ts": "0",
+      "completion_day_level": {
+
+      },
+      "global_score": 0,
+      "name": "iamkd",
+      "id": "52016",
+      "local_score": 0,
+      "stars": 0
+    },
+    "77273": {
+      "last_star_ts": "0",
+      "completion_day_level": {
+
+      },
+      "global_score": 0,
+      "name": "Doug Sparling",
+      "id": "77273",
+      "local_score": 0,
+      "stars": 0
+    },
+    "98658": {
+      "id": "98658",
+      "last_star_ts": "0",
+      "completion_day_level": {
+
+      },
+      "name": "Miho Krušić",
+      "global_score": 0,
+      "stars": 0,
+      "local_score": 0
+    },
+    "106447": {
+      "id": "106447",
+      "completion_day_level": {
+
+      },
+      "last_star_ts": "0",
+      "global_score": 0,
+      "name": "dbikic",
+      "stars": 0,
+      "local_score": 0
+    },
+    "120674": {
+      "stars": 0,
+      "local_score": 0,
+      "id": "120674",
+      "global_score": 0,
+      "name": "jshreynolds",
+      "last_star_ts": "0",
+      "completion_day_level": {
+
+      }
+    },
+    "138806": {
+      "local_score": 500,
+      "stars": 6,
+      "name": "copy",
+      "global_score": 0,
+      "completion_day_level": {
+        "1": {
+          "1": {
+            "get_star_ts": 1638335013
+          },
+          "2": {
+            "get_star_ts": 1638335146
+          }
+        },
+        "2": {
+          "1": {
+            "get_star_ts": 1638421502
+          },
+          "2": {
+            "get_star_ts": 1638421614
+          }
+        },
+        "3": {
+          "1": {
+            "get_star_ts": 1638507832
+          },
+          "2": {
+            "get_star_ts": 1638509150
+          }
+        }
+      },
+      "last_star_ts": 1638509150,
+      "id": "138806"
+    },
+    "141532": {
+      "stars": 0,
+      "local_score": 0,
+      "id": "141532",
+      "name": "eeveeta",
+      "global_score": 0,
+      "last_star_ts": "0",
+      "completion_day_level": {
+
+      }
+    },
+    "167393": {
+      "name": "Copot Matei",
+      "global_score": 0,
+      "completion_day_level": {
+
+      },
+      "last_star_ts": "0",
+      "id": "167393",
+      "local_score": 0,
+      "stars": 0
+    },
+    "181945": {
+      "stars": 0,
+      "local_score": 0,
+      "id": "181945",
+      "global_score": 0,
+      "name": "tibi77",
+      "last_star_ts": "0",
+      "completion_day_level": {
+
+      }
+    },
+    "193602": {
+      "local_score": 398,
+      "stars": 6,
+      "last_star_ts": 1638527892,
+      "completion_day_level": {
+        "1": {
+          "1": {
+            "get_star_ts": 1638441527
+          },
+          "2": {
+            "get_star_ts": 1638441950
+          }
+        },
+        "2": {
+          "1": {
+            "get_star_ts": 1638442455
+          },
+          "2": {
+            "get_star_ts": 1638442603
+          }
+        },
+        "3": {
+          "1": {
+            "get_star_ts": 1638520847
+          },
+          "2": {
+            "get_star_ts": 1638527892
+          }
+        }
+      },
+      "name": "Tomislav Bacinger",
+      "global_score": 0,
+      "id": "193602"
+    },
+    "194755": {
+      "stars": 6,
+      "local_score": 467,
+      "id": "194755",
+      "global_score": 0,
+      "name": "Erlend Hamberg",
+      "completion_day_level": {
+        "1": {
+          "1": {
+            "get_star_ts": 1638343881
+          },
+          "2": {
+            "get_star_ts": 1638344024
+          }
+        },
+        "2": {
+          "1": {
+            "get_star_ts": 1638421721
+          },
+          "2": {
+            "get_star_ts": 1638421956
+          }
+        },
+        "3": {
+          "1": {
+            "get_star_ts": 1638509096
+          },
+          "2": {
+            "get_star_ts": 1638510128
+          }
+        }
+      },
+      "last_star_ts": 1638510128
+    },
+    "208490": {
+      "stars": 0,
+      "local_score": 0,
+      "id": "208490",
+      "global_score": 0,
+      "name": null,
+      "last_star_ts": "0",
+      "completion_day_level": {
+
+      }
+    },
+    "217854": {
+      "stars": 8,
+      "local_score": 622,
+      "id": "217854",
+      "completion_day_level": {
+        "1": {
+          "1": {
+            "get_star_ts": 1638341445
+          },
+          "2": {
+            "get_star_ts": 1638341703
+          }
+        },
+        "2": {
+          "1": {
+            "get_star_ts": 1638421807
+          },
+          "2": {
+            "get_star_ts": 1638421973
+          }
+        },
+        "3": {
+          "1": {
+            "get_star_ts": 1638518108
+          },
+          "2": {
+            "get_star_ts": 1638519263
+          }
+        },
+        "4": {
+          "1": {
+            "get_star_ts": 1638595207
+          },
+          "2": {
+            "get_star_ts": 1638595516
+          }
+        }
+      },
+      "last_star_ts": 1638595516,
+      "global_score": 0,
+      "name": "acburdine"
+    },
+    "259126": {
+      "global_score": 0,
+      "name": "iprlic",
+      "last_star_ts": 1638518197,
+      "completion_day_level": {
+        "1": {
+          "1": {
+            "get_star_ts": 1638346401
+          },
+          "2": {
+            "get_star_ts": 1638346645
+          }
+        },
+        "2": {
+          "1": {
+            "get_star_ts": 1638432507
+          },
+          "2": {
+            "get_star_ts": 1638432775
+          }
+        },
+        "3": {
+          "1": {
+            "get_star_ts": 1638514896
+          },
+          "2": {
+            "get_star_ts": 1638518197
+          }
+        }
+      },
+      "id": "259126",
+      "local_score": 434,
+      "stars": 6
+    },
+    "298081": {
+      "id": "298081",
+      "global_score": 0,
+      "name": "Vidor Gencel",
+      "last_star_ts": "0",
+      "completion_day_level": {
+
+      },
+      "stars": 0,
+      "local_score": 0
+    },
+    "367895": {
+      "id": "367895",
+      "global_score": 0,
+      "name": "Primetalk",
+      "completion_day_level": {
+        "1": {
+          "1": {
+            "get_star_ts": 1638335005
+          },
+          "2": {
+            "get_star_ts": 1638335144
+          }
+        },
+        "2": {
+          "1": {
+            "get_star_ts": 1638421460
+          },
+          "2": {
+            "get_star_ts": 1638421761
+          }
+        },
+        "3": {
+          "1": {
+            "get_star_ts": 1638508329
+          },
+          "2": {
+            "get_star_ts": 1638509576
+          }
+        },
+        "4": {
+          "1": {
+            "get_star_ts": 1638595861
+          },
+          "2": {
+            "get_star_ts": 1638596735
+          }
+        }
+      },
+      "last_star_ts": 1638596735,
+      "stars": 8,
+      "local_score": 662
+    },
+    "391422": {
+      "stars": 6,
+      "local_score": 440,
+      "id": "391422",
+      "completion_day_level": {
+        "1": {
+          "1": {
+            "get_star_ts": 1638340867
+          },
+          "2": {
+            "get_star_ts": 1638340975
+          }
+        },
+        "2": {
+          "1": {
+            "get_star_ts": 1638429792
+          },
+          "2": {
+            "get_star_ts": 1638429933
+          }
+        },
+        "3": {
+          "1": {
+            "get_star_ts": 1638523840
+          },
+          "2": {
+            "get_star_ts": 1638526833
+          }
+        }
+      },
+      "last_star_ts": 1638526833,
+      "global_score": 0,
+      "name": "czak"
+    },
+    "399712": {
+      "stars": 0,
+      "local_score": 0,
+      "id": "399712",
+      "completion_day_level": {
+
+      },
+      "last_star_ts": "0",
+      "name": "Alexander Velichkin",
+      "global_score": 0
+    },
+    "417722": {
+      "id": "417722",
+      "global_score": 0,
+      "name": "eduherminio",
+      "last_star_ts": 1638524501,
+      "completion_day_level": {
+        "1": {
+          "1": {
+            "get_star_ts": 1638334956
+          },
+          "2": {
+            "get_star_ts": 1638335232
+          }
+        },
+        "2": {
+          "1": {
+            "get_star_ts": 1638421913
+          },
+          "2": {
+            "get_star_ts": 1638422415
+          }
+        },
+        "3": {
+          "1": {
+            "get_star_ts": 1638523504
+          },
+          "2": {
+            "get_star_ts": 1638524501
+          }
+        }
+      },
+      "stars": 6,
+      "local_score": 462
+    },
+    "425107": {
+      "stars": 0,
+      "local_score": 0,
+      "id": "425107",
+      "name": "@jezdikm",
+      "global_score": 0,
+      "last_star_ts": "0",
+      "completion_day_level": {
+
+      }
+    },
+    "450376": {
+      "id": "450376",
+      "completion_day_level": {
+        "1": {
+          "1": {
+            "get_star_ts": 1638385612
+          },
+          "2": {
+            "get_star_ts": 1638387486
+          }
+        },
+        "2": {
+          "1": {
+            "get_star_ts": 1638438656
+          },
+          "2": {
+            "get_star_ts": 1638439087
+          }
+        },
+        "3": {
+          "1": {
+            "get_star_ts": 1638509434
+          },
+          "2": {
+            "get_star_ts": 1638511974
+          }
+        }
+      },
+      "last_star_ts": 1638511974,
+      "global_score": 0,
+      "name": "Nadia Gubernator",
+      "stars": 6,
+      "local_score": 427
+    },
+    "608624": {
+      "id": "608624",
+      "name": "puma3",
+      "global_score": 0,
+      "last_star_ts": "0",
+      "completion_day_level": {
+
+      },
+      "stars": 0,
+      "local_score": 0
+    },
+    "620508": {
+      "global_score": 0,
+      "name": null,
+      "completion_day_level": {
+
+      },
+      "last_star_ts": "0",
+      "id": "620508",
+      "local_score": 0,
+      "stars": 0
+    },
+    "631899": {
+      "local_score": 645,
+      "stars": 8,
+      "global_score": 0,
+      "name": "Nenad Veljkovic",
+      "completion_day_level": {
+        "1": {
+          "1": {
+            "get_star_ts": 1638335088
+          },
+          "2": {
+            "get_star_ts": 1638335218
+          }
+        },
+        "2": {
+          "1": {
+            "get_star_ts": 1638421655
+          },
+          "2": {
+            "get_star_ts": 1638421811
+          }
+        },
+        "3": {
+          "1": {
+            "get_star_ts": 1638508407
+          },
+          "2": {
+            "get_star_ts": 1638510465
+          }
+        },
+        "4": {
+          "1": {
+            "get_star_ts": 1638596801
+          },
+          "2": {
+            "get_star_ts": 1638598214
+          }
+        }
+      },
+      "last_star_ts": 1638598214,
+      "id": "631899"
+    },
+    "637864": {
+      "stars": 0,
+      "local_score": 0,
+      "id": "637864",
+      "name": "toptal_advent",
+      "global_score": 0,
+      "completion_day_level": {
+
+      },
+      "last_star_ts": "0"
+    },
+    "641898": {
+      "id": "641898",
+      "global_score": 0,
+      "name": "@pvl",
+      "completion_day_level": {
+
+      },
+      "last_star_ts": "0",
+      "stars": 0,
+      "local_score": 0
+    },
+    "689158": {
+      "global_score": 0,
+      "name": "Roman Petrov",
+      "completion_day_level": {
+
+      },
+      "last_star_ts": "0",
+      "id": "689158",
+      "local_score": 0,
+      "stars": 0
+    },
+    "691348": {
+      "stars": 8,
+      "local_score": 647,
+      "id": "691348",
+      "last_star_ts": 1638596180,
+      "completion_day_level": {
+        "1": {
+          "1": {
+            "get_star_ts": 1638335056
+          },
+          "2": {
+            "get_star_ts": 1638335503
+          }
+        },
+        "2": {
+          "1": {
+            "get_star_ts": 1638421922
+          },
+          "2": {
+            "get_star_ts": 1638422096
+          }
+        },
+        "3": {
+          "1": {
+            "get_star_ts": 1638508055
+          },
+          "2": {
+            "get_star_ts": 1638509192
+          }
+        },
+        "4": {
+          "1": {
+            "get_star_ts": 1638595937
+          },
+          "2": {
+            "get_star_ts": 1638596180
+          }
+        }
+      },
+      "global_score": 0,
+      "name": "Eduard Carreras"
+    },
+    "697477": {
+      "local_score": 0,
+      "stars": 0,
+      "completion_day_level": {
+
+      },
+      "last_star_ts": "0",
+      "global_score": 0,
+      "name": "Peppe Landolfi",
+      "id": "697477"
+    },
+    "700489": {
+      "local_score": 313,
+      "stars": 5,
+      "name": "epidemian",
+      "global_score": 0,
+      "completion_day_level": {
+        "1": {
+          "1": {
+            "get_star_ts": 1638414637
+          },
+          "2": {
+            "get_star_ts": 1638416904
+          }
+        },
+        "2": {
+          "1": {
+            "get_star_ts": 1638504444
+          },
+          "2": {
+            "get_star_ts": 1638504933
+          }
+        },
+        "3": {
+          "1": {
+            "get_star_ts": 1638594944
+          }
+        }
+      },
+      "last_star_ts": 1638594944,
+      "id": "700489"
+    },
+    "708369": {
+      "stars": 0,
+      "local_score": 0,
+      "id": "708369",
+      "global_score": 0,
+      "name": "developeruz",
+      "completion_day_level": {
+
+      },
+      "last_star_ts": "0"
+    },
+    "716049": {
+      "stars": 0,
+      "local_score": 0,
+      "id": "716049",
+      "completion_day_level": {
+
+      },
+      "last_star_ts": "0",
+      "global_score": 0,
+      "name": "rbasto1"
+    },
+    "723039": {
+      "completion_day_level": {
+
+      },
+      "last_star_ts": "0",
+      "global_score": 0,
+      "name": "glukki",
+      "id": "723039",
+      "local_score": 0,
+      "stars": 0
+    },
+    "723218": {
+      "global_score": 0,
+      "name": "Sinan",
+      "last_star_ts": "0",
+      "completion_day_level": {
+
+      },
+      "id": "723218",
+      "local_score": 0,
+      "stars": 0
+    },
+    "727721": {
+      "last_star_ts": 1638517750,
+      "completion_day_level": {
+        "1": {
+          "1": {
+            "get_star_ts": 1638360213
+          },
+          "2": {
+            "get_star_ts": 1638360503
+          }
+        },
+        "2": {
+          "1": {
+            "get_star_ts": 1638428360
+          },
+          "2": {
+            "get_star_ts": 1638428571
+          }
+        },
+        "3": {
+          "1": {
+            "get_star_ts": 1638514285
+          },
+          "2": {
+            "get_star_ts": 1638517750
+          }
+        }
+      },
+      "name": "Kostas Kostoglou",
+      "global_score": 0,
+      "id": "727721",
+      "local_score": 442,
+      "stars": 6
+    },
+    "728382": {
+      "name": "Saverio Trioni",
+      "global_score": 0,
+      "completion_day_level": {
+        "1": {
+          "1": {
+            "get_star_ts": 1638340929
+          },
+          "2": {
+            "get_star_ts": 1638340994
+          }
+        },
+        "2": {
+          "1": {
+            "get_star_ts": 1638431599
+          },
+          "2": {
+            "get_star_ts": 1638432359
+          }
+        },
+        "3": {
+          "1": {
+            "get_star_ts": 1638511922
+          },
+          "2": {
+            "get_star_ts": 1638513029
+          }
+        }
+      },
+      "last_star_ts": 1638513029,
+      "id": "728382",
+      "local_score": 448,
+      "stars": 6
+    },
+    "775748": {
+      "name": "Sachin Mour",
+      "global_score": 0,
+      "last_star_ts": "0",
+      "completion_day_level": {
+
+      },
+      "id": "775748",
+      "local_score": 0,
+      "stars": 0
+    },
+    "777483": {
+      "id": "777483",
+      "completion_day_level": {
+        "1": {
+          "1": {
+            "get_star_ts": 1638371504
+          },
+          "2": {
+            "get_star_ts": 1638372006
+          }
+        },
+        "2": {
+          "1": {
+            "get_star_ts": 1638457814
+          },
+          "2": {
+            "get_star_ts": 1638458129
+          }
+        },
+        "3": {
+          "1": {
+            "get_star_ts": 1638544598
+          },
+          "2": {
+            "get_star_ts": 1638546040
+          }
+        }
+      },
+      "last_star_ts": 1638546040,
+      "global_score": 0,
+      "name": "Avery Pierce",
+      "stars": 6,
+      "local_score": 403
+    },
+    "784038": {
+      "id": "784038",
+      "name": "Rodrigo Donini",
+      "global_score": 0,
+      "completion_day_level": {
+
+      },
+      "last_star_ts": "0",
+      "stars": 0,
+      "local_score": 0
+    },
+    "802651": {
+      "name": "Nikolay Ivanov",
+      "global_score": 0,
+      "completion_day_level": {
+
+      },
+      "last_star_ts": "0",
+      "id": "802651",
+      "local_score": 0,
+      "stars": 0
+    },
+    "807018": {
+      "stars": 0,
+      "local_score": 0,
+      "id": "807018",
+      "completion_day_level": {
+
+      },
+      "last_star_ts": "0",
+      "global_score": 0,
+      "name": "xokker"
+    },
+    "810574": {
+      "id": "810574",
+      "name": "Matas Seimys",
+      "global_score": 0,
+      "completion_day_level": {
+
+      },
+      "last_star_ts": "0",
+      "stars": 0,
+      "local_score": 0
+    },
+    "812277": {
+      "last_star_ts": "0",
+      "completion_day_level": {
+
+      },
+      "global_score": 0,
+      "name": "Gangadharan Kuruvath",
+      "id": "812277",
+      "local_score": 0,
+      "stars": 0
+    },
+    "820505": {
+      "id": "820505",
+      "name": "aneem",
+      "global_score": 0,
+      "completion_day_level": {
+        "1": {
+          "1": {
+            "get_star_ts": 1638421472
+          },
+          "2": {
+            "get_star_ts": 1638422436
+          }
+        },
+        "2": {
+          "1": {
+            "get_star_ts": 1638547432
+          },
+          "2": {
+            "get_star_ts": 1638549142
+          }
+        },
+        "3": {
+          "1": {
+            "get_star_ts": 1638551897
+          },
+          "2": {
+            "get_star_ts": 1638553870
+          }
+        }
+      },
+      "last_star_ts": 1638553870,
+      "stars": 6,
+      "local_score": 377
+    },
+    "833111": {
+      "local_score": 270,
+      "stars": 4,
+      "global_score": 0,
+      "name": "livthomas",
+      "last_star_ts": 1638429108,
+      "completion_day_level": {
+        "1": {
+          "1": {
+            "get_star_ts": 1638428183
+          },
+          "2": {
+            "get_star_ts": 1638428513
+          }
+        },
+        "2": {
+          "1": {
+            "get_star_ts": 1638428910
+          },
+          "2": {
+            "get_star_ts": 1638429108
+          }
+        }
+      },
+      "id": "833111"
+    },
+    "846014": {
+      "stars": 0,
+      "local_score": 0,
+      "id": "846014",
+      "completion_day_level": {
+
+      },
+      "last_star_ts": "0",
+      "global_score": 0,
+      "name": "Migiyaka"
+    },
+    "850968": {
+      "id": "850968",
+      "global_score": 0,
+      "name": "Kevin Bauer",
+      "last_star_ts": "0",
+      "completion_day_level": {
+
+      },
+      "stars": 0,
+      "local_score": 0
+    },
+    "857652": {
+      "completion_day_level": {
+
+      },
+      "last_star_ts": "0",
+      "name": "Nikita Kurpas",
+      "global_score": 0,
+      "id": "857652",
+      "local_score": 0,
+      "stars": 0
+    },
+    "890125": {
+      "id": "890125",
+      "last_star_ts": 1638512557,
+      "completion_day_level": {
+        "1": {
+          "1": {
+            "get_star_ts": 1638336308
+          },
+          "2": {
+            "get_star_ts": 1638337997
+          }
+        },
+        "2": {
+          "1": {
+            "get_star_ts": 1638422237
+          },
+          "2": {
+            "get_star_ts": 1638422468
+          }
+        },
+        "3": {
+          "1": {
+            "get_star_ts": 1638508412
+          },
+          "2": {
+            "get_star_ts": 1638512557
+          }
+        }
+      },
+      "name": "scorphus",
+      "global_score": 0,
+      "stars": 6,
+      "local_score": 466
+    },
+    "895642": {
+      "stars": 0,
+      "local_score": 0,
+      "id": "895642",
+      "last_star_ts": "0",
+      "completion_day_level": {
+
+      },
+      "name": "JSFernandes",
+      "global_score": 0
+    },
+    "896252": {
+      "local_score": 254,
+      "stars": 4,
+      "global_score": 0,
+      "name": "Cassio Tavares",
+      "completion_day_level": {
+        "1": {
+          "1": {
+            "get_star_ts": 1638409442
+          },
+          "2": {
+            "get_star_ts": 1638410675
+          }
+        },
+        "2": {
+          "1": {
+            "get_star_ts": 1638487333
+          },
+          "2": {
+            "get_star_ts": 1638487870
+          }
+        }
+      },
+      "last_star_ts": 1638487870,
+      "id": "896252"
+    },
+    "980177": {
+      "stars": 0,
+      "local_score": 0,
+      "id": "980177",
+      "global_score": 0,
+      "name": "Samia Drappeau",
+      "last_star_ts": "0",
+      "completion_day_level": {
+
+      }
+    },
+    "980453": {
+      "id": "980453",
+      "global_score": 0,
+      "name": "Grigoruta Paul",
+      "last_star_ts": "0",
+      "completion_day_level": {
+
+      },
+      "stars": 0,
+      "local_score": 0
+    },
+    "983812": {
+      "completion_day_level": {
+
+      },
+      "last_star_ts": "0",
+      "name": "Marcelo Gimenes de Oliveira",
+      "global_score": 0,
+      "id": "983812",
+      "local_score": 0,
+      "stars": 0
+    },
+    "985306": {
+      "local_score": 409,
+      "stars": 6,
+      "global_score": 0,
+      "name": "ilker karan",
+      "last_star_ts": 1638543050,
+      "completion_day_level": {
+        "1": {
+          "1": {
+            "get_star_ts": 1638368829
+          },
+          "2": {
+            "get_star_ts": 1638369347
+          }
+        },
+        "2": {
+          "1": {
+            "get_star_ts": 1638455545
+          },
+          "2": {
+            "get_star_ts": 1638457094
+          }
+        },
+        "3": {
+          "1": {
+            "get_star_ts": 1638536653
+          },
+          "2": {
+            "get_star_ts": 1638543050
+          }
+        }
+      },
+      "id": "985306"
+    },
+    "989736": {
+      "stars": 0,
+      "local_score": 0,
+      "id": "989736",
+      "name": "zlymeda",
+      "global_score": 0,
+      "completion_day_level": {
+
+      },
+      "last_star_ts": "0"
+    },
+    "1014836": {
+      "id": "1014836",
+      "name": "Marek Stana",
+      "global_score": 0,
+      "completion_day_level": {
+
+      },
+      "last_star_ts": "0",
+      "stars": 0,
+      "local_score": 0
+    },
+    "1017922": {
+      "local_score": 0,
+      "stars": 0,
+      "name": "mnmaraes",
+      "global_score": 0,
+      "last_star_ts": "0",
+      "completion_day_level": {
+
+      },
+      "id": "1017922"
+    },
+    "1023981": {
+      "global_score": 0,
+      "name": "Wojciech Kulikowski",
+      "last_star_ts": "0",
+      "completion_day_level": {
+
+      },
+      "id": "1023981",
+      "local_score": 0,
+      "stars": 0
+    },
+    "1026687": {
+      "local_score": 0,
+      "stars": 0,
+      "global_score": 0,
+      "name": "ejossev",
+      "completion_day_level": {
+
+      },
+      "last_star_ts": "0",
+      "id": "1026687"
+    },
+    "1030382": {
+      "stars": 0,
+      "local_score": 0,
+      "id": "1030382",
+      "last_star_ts": "0",
+      "completion_day_level": {
+
+      },
+      "name": "Ahmed Hesham",
+      "global_score": 0
+    },
+    "1035109": {
+      "id": "1035109",
+      "last_star_ts": "0",
+      "completion_day_level": {
+
+      },
+      "name": "Mayank",
+      "global_score": 0,
+      "stars": 0,
+      "local_score": 0
+    },
+    "1039922": {
+      "local_score": 471,
+      "stars": 7,
+      "last_star_ts": 1638596912,
+      "completion_day_level": {
+        "1": {
+          "1": {
+            "get_star_ts": 1638385838
+          },
+          "2": {
+            "get_star_ts": 1638386801
+          }
+        },
+        "2": {
+          "1": {
+            "get_star_ts": 1638468663
+          },
+          "2": {
+            "get_star_ts": 1638468972
+          }
+        },
+        "3": {
+          "1": {
+            "get_star_ts": 1638582846
+          },
+          "2": {
+            "get_star_ts": 1638594146
+          }
+        },
+        "4": {
+          "1": {
+            "get_star_ts": 1638596912
+          }
+        }
+      },
+      "name": "lukenorman",
+      "global_score": 0,
+      "id": "1039922"
+    },
+    "1040544": {
+      "id": "1040544",
+      "name": "darjama",
+      "global_score": 0,
+      "completion_day_level": {
+        "1": {
+          "1": {
+            "get_star_ts": 1638389147
+          },
+          "2": {
+            "get_star_ts": 1638389946
+          }
+        },
+        "2": {
+          "1": {
+            "get_star_ts": 1638596878
+          },
+          "2": {
+            "get_star_ts": 1638597829
+          }
+        }
+      },
+      "last_star_ts": 1638597829,
+      "stars": 4,
+      "local_score": 250
+    },
+    "1143085": {
+      "id": "1143085",
+      "global_score": 0,
+      "name": "TheLartians",
+      "last_star_ts": "0",
+      "completion_day_level": {
+
+      },
+      "stars": 0,
+      "local_score": 0
+    },
+    "1222038": {
+      "global_score": 0,
+      "name": "Ondra Hráček",
+      "last_star_ts": "0",
+      "completion_day_level": {
+
+      },
+      "id": "1222038",
+      "local_score": 0,
+      "stars": 0
+    },
+    "1222060": {
+      "stars": 0,
+      "local_score": 0,
+      "id": "1222060",
+      "completion_day_level": {
+
+      },
+      "last_star_ts": "0",
+      "name": "Nazrulla Sadullaev",
+      "global_score": 0
+    },
+    "1222791": {
+      "id": "1222791",
+      "name": "Osman Mehinagic",
+      "global_score": 0,
+      "completion_day_level": {
+
+      },
+      "last_star_ts": "0",
+      "stars": 0,
+      "local_score": 0
+    },
+    "1223160": {
+      "local_score": 0,
+      "stars": 0,
+      "name": "Zoltan Varadi",
+      "global_score": 0,
+      "last_star_ts": "0",
+      "completion_day_level": {
+
+      },
+      "id": "1223160"
+    },
+    "1228061": {
+      "name": "Dave Aronson",
+      "global_score": 0,
+      "last_star_ts": "0",
+      "completion_day_level": {
+
+      },
+      "id": "1228061",
+      "local_score": 0,
+      "stars": 0
+    },
+    "1233049": {
+      "local_score": 0,
+      "stars": 0,
+      "global_score": 0,
+      "name": "Manish Menaria",
+      "completion_day_level": {
+
+      },
+      "last_star_ts": "0",
+      "id": "1233049"
+    },
+    "1235308": {
+      "id": "1235308",
+      "completion_day_level": {
+
+      },
+      "last_star_ts": "0",
+      "name": "shashankp",
+      "global_score": 0,
+      "stars": 0,
+      "local_score": 0
+    },
+    "1236013": {
+      "id": "1236013",
+      "completion_day_level": {
+
+      },
+      "last_star_ts": "0",
+      "name": "Josh Houghtelin",
+      "global_score": 0,
+      "stars": 0,
+      "local_score": 0
+    },
+    "1237779": {
+      "global_score": 0,
+      "name": "Owen Lopez",
+      "completion_day_level": {
+
+      },
+      "last_star_ts": "0",
+      "id": "1237779",
+      "local_score": 0,
+      "stars": 0
+    },
+    "1241224": {
+      "name": "Ruslan Zalalov",
+      "global_score": 0,
+      "completion_day_level": {
+
+      },
+      "last_star_ts": "0",
+      "id": "1241224",
+      "local_score": 0,
+      "stars": 0
+    },
+    "1252370": {
+      "stars": 0,
+      "local_score": 0,
+      "id": "1252370",
+      "name": "Jihad Asad",
+      "global_score": 0,
+      "completion_day_level": {
+
+      },
+      "last_star_ts": "0"
+    },
+    "1335640": {
+      "local_score": 0,
+      "stars": 0,
+      "global_score": 0,
+      "name": "Alexandru Sclearuc",
+      "last_star_ts": "0",
+      "completion_day_level": {
+
+      },
+      "id": "1335640"
+    },
+    "1485651": {
+      "global_score": 0,
+      "name": "Anton Dieterle",
+      "completion_day_level": {
+        "1": {
+          "1": {
+            "get_star_ts": 1638342702
+          },
+          "2": {
+            "get_star_ts": 1638344124
+          }
+        },
+        "2": {
+          "1": {
+            "get_star_ts": 1638435716
+          },
+          "2": {
+            "get_star_ts": 1638435916
+          }
+        },
+        "3": {
+          "1": {
+            "get_star_ts": 1638521258
+          }
+        }
+      },
+      "last_star_ts": 1638521258,
+      "id": "1485651",
+      "local_score": 358,
+      "stars": 5
+    }
+  },
+  "owner_id": "637864",
+  "event": "2021"
+}

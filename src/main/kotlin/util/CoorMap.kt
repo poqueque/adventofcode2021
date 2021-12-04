@@ -120,15 +120,6 @@ class CoorMap(inputList: List<String>) {
         return str
     }
 
-    fun getNeigbours(k: Coor, c: Char): Int {
-        var found =0
-        for(i in k.x-1 .. k.x+1)
-            for (j in k.y-1 .. k.y+1){
-                if (i>=0 && j>=0 && i<=maxX && j<=maxY && (i != k.x || j != k.y) && map[Coor(i,j)] == c) found++
-            }
-        return found
-    }
-
     companion object {
         fun getN(map: MutableMap<Coor, Char>): String {
             val maxX = (map.keys.map{it.x}.maxOrNull() ?: 0)
