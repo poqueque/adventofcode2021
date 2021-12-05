@@ -9,6 +9,7 @@ group = "me.edi"
 version = "1.0-SNAPSHOT"
 
 repositories {
+    maven("https://jitpack.io")
     mavenCentral()
     jcenter()
 }
@@ -16,6 +17,7 @@ repositories {
 dependencies {
     implementation("org.reflections", "reflections", "0.9.12")
     implementation("com.beust","klaxon","5.0.1")
+    implementation("com.github.jkcclemens","khttp","-SNAPSHOT")
     testImplementation(kotlin("test-junit"))
 }
 

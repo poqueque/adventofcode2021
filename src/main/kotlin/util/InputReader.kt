@@ -17,8 +17,16 @@ object InputReader {
         return CoorMap(getInputAsList(day))
     }
 
-    fun getLeaderboard(): String {
-        return leaderBoardFromResources().readText()
+    fun getStringsFromExpression(expression: String, check: String): List<String>? {
+        val expData = expression.split(" ")
+        val checkData = check.split(" ")
+        if (expData.size != checkData.size) return null
+        val strs = mutableListOf<String>()
+        for (i in expData.indices) {
+            if (expData[i] == "$") strs.add(checkData[i])
+            else if (expData[i] != checkData[i]) return null
+        }
+        return strs;
     }
 
     //Not working - Need to manage login
@@ -31,10 +39,5 @@ object InputReader {
     @Suppress("RECEIVER_NULLABILITY_MISMATCH_BASED_ON_JAVA_ANNOTATIONS")
     private fun fromResources(day: Int): File {
         return File(javaClass.classLoader.getResource("input_day_${day.toString().padStart(2, '0')}.txt").toURI())
-    }
-
-    @Suppress("RECEIVER_NULLABILITY_MISMATCH_BASED_ON_JAVA_ANNOTATIONS")
-    private fun leaderBoardFromResources(): File {
-        return File(javaClass.classLoader.getResource("_leaderboard.txt").toURI())
     }
 }
