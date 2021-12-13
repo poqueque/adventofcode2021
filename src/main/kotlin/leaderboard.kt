@@ -7,31 +7,30 @@ import kotlin.time.ExperimentalTime
 @ExperimentalTime
 @Suppress("RECEIVER_NULLABILITY_MISMATCH_BASED_ON_JAVA_ANNOTATIONS")
 fun main() {
-    println("Advent of Code 2021")
+    var year = 2019
+    println("Advent of Code $year")
     var textData: String? = null
-    val file =File("_leaderboard.txt")
+    val file =File("_leaderboard_$year.txt")
     if (file.exists()) {
         if (System.currentTimeMillis() - file.lastModified() < 900000)
             textData = file.readText()
     }
     if (textData == null) {
         val data = khttp.get(
-            "https://adventofcode.com/2021/leaderboard/private/view/637864.json",
+            "https://adventofcode.com/$year/leaderboard/private/view/637864.json",
             cookies = mapOf(
-                //            "_ga" to "GA1.2.703038879.1637396152",
                 "session" to "53616c7465645f5fa49840d8dd3f656358929e03174acdc6204cac68982223259738154174dd3392268d716a2a6accae",
-                //            "gid" to "GA1.2.594376790.1638268259"
             )
         )
         textData = data.text
-        File("_leaderboard.txt").writeText(data.text)
+        File("_leaderboard_$year.txt").writeText(data.text)
     }
     val leaderboard = Parser.parse(textData)
     val completedDays = mutableMapOf<String, Int>()
     val totalTime = mutableMapOf<String, Long>()
     var maxDays = 0
     if (leaderboard != null) {
-        val year = leaderboard.event.toInt()
+        year = leaderboard.event.toInt()
         val members = leaderboard.members.count()
         val standings = mutableMapOf<String, Int>()
         var lastDay = mutableMapOf<String, Int>()
