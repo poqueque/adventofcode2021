@@ -7,7 +7,7 @@ import kotlin.time.ExperimentalTime
 @ExperimentalTime
 @Suppress("RECEIVER_NULLABILITY_MISMATCH_BASED_ON_JAVA_ANNOTATIONS")
 fun main() {
-    var year = 2019
+    var year = 2021
     println("Advent of Code $year")
     var textData: String? = null
     val file =File("_leaderboard_$year.txt")
