@@ -40,9 +40,9 @@ fun main() {
             calendar.set(Calendar.YEAR, year)
             calendar.set(Calendar.MONTH, 11)
             calendar.set(Calendar.DAY_OF_MONTH, day)
-            calendar.set(Calendar.HOUR, 6)
+            calendar.set(Calendar.HOUR, 0)
             calendar.set(Calendar.MINUTE, 0)
-            val millis = calendar.timeInMillis
+            val millis = calendar.timeInMillis - 6*3600000
 
             val dayPoints = mutableMapOf<String, Int>()
             val clasif1 = mutableMapOf<String, Long>()
