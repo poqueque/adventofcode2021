@@ -1,3 +1,5 @@
+import util.Coor
+
 enum class Direction { UP, DOWN, LEFT, RIGHT }
 
 data class Coor3(val x: Int, val y: Int, val z: Int) {
@@ -14,3 +16,16 @@ data class Coor3(val x: Int, val y: Int, val z: Int) {
     }
 }
 
+fun printMap(input: Map<Coor,String>) {
+    val minX = input.keys.minOf { it.x }
+    val minY = input.keys.minOf { it.y }
+    val maxX = input.keys.maxOf { it.x }
+    val maxY = input.keys.maxOf { it.y }
+    for (y in minY ..maxY ) {
+        for (x in minX ..maxX ) {
+            print(input[Coor(x, y)])
+        }
+        println()
+    }
+    println()
+}
