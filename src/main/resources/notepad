@@ -1,143 +1,37 @@
-/Library/Java/JavaVirtualMachines/jdk-15.jdk/Contents/Home/bin/java -javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=55907:/Applications/IntelliJ IDEA CE.app/Contents/bin -Dfile.encoding=UTF-8 -classpath /Users/edi/development/projects/Kotlin/advent-of-code/aoc2021/build/classes/kotlin/main:/Users/edi/development/projects/Kotlin/advent-of-code/aoc2021/build/resources/main:/Users/edi/.gradle/caches/modules-2/files-2.1/org.reflections/reflections/0.9.12/1c9d44c563eebe9b8a3afebd29ed5c4646db800c/reflections-0.9.12.jar:/Users/edi/.gradle/caches/modules-2/files-2.1/com.beust/klaxon/5.0.1/4c1ffe12cd890eef021808dfb2fe2993dfeaf0c9/klaxon-5.0.1.jar:/Users/edi/.gradle/caches/modules-2/files-2.1/com.github.jkcclemens/khttp/-SNAPSHOT/adba13f89fee71ae842ee7756eb9245ac187f536/khttp--SNAPSHOT.jar:/Users/edi/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk8/1.4.20/756521338269950c2a276f1abe6fef8e1a5e5528/kotlin-stdlib-jdk8-1.4.20.jar:/Users/edi/.gradle/caches/modules-2/files-2.1/org.javassist/javassist/3.26.0-GA/bb2890849968d8d8311ffba8c37b0ce16ce284dc/javassist-3.26.0-GA.jar:/Users/edi/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-reflect/1.2.60/33af8b35817e4c97a477a6a324032e0591d04f36/kotlin-reflect-1.2.60.jar:/Users/edi/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.4.20/9be77b243a362b745e365f286627b8724337009c/kotlin-stdlib-1.4.20.jar:/Users/edi/.gradle/caches/modules-2/files-2.1/org.json/json/20190722/7bce7bacf0ab5e9f894d307a3de8b7f540064d5/json-20190722.jar:/Users/edi/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk7/1.4.20/9de2c79e95d4b4699a455e88ba285a95352e0bea/kotlin-stdlib-jdk7-1.4.20.jar:/Users/edi/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.4.20/c6761d7805b5312302f2bbd78cda68c976ce0c70/kotlin-stdlib-common-1.4.20.jar:/Users/edi/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar MainKt
-Advent of Code 2021
-Today is day: 22
+#############
+#  . ..... .#
+###A#B#C#D###
+  #A#B#C#D#
+  #########
 
-        fun within(c: Cube): Boolean {
-            return (x.first in c.x && x.last in c.x &&
-                    y.first in c.y && y.last in c.y &&
-                    z.first in c.z && z.last in c.z)
-        }
-        fun intersects(c: Cube): Boolean {
-            return (x.first in c.x || x.last in c.x ||
-                    y.first in c.y || y.last in c.y ||
-                    z.first in c.z || z.last in c.z)
-        }
+A 8 5 3 8 24
+B 4 3 5 12
+C 6 5 11
+D 7 8 15
 
-1324007253785283
-1319618626668022
 
-=== DAY 22 ===
-1 on
-151686 1
-2 on
-248314 12
-3 on
-310956 21
-4 on
-389786 42
-5 off
-389786 42
-6 on
-421952 63
-7 off
-421700 69
-8 on
-433638 117
-9 off
-433638 117
-10 on
-474140 153
-11 on
-153907262308204 154
-12 on
-407198014618852 155
-13 on
-597647744547848 158
-14 on
-820584421256330 165
-15 on
-1234217734103690 166
-16 on
-1550683166845610 167
-17 on
-1805952894513290 168
-18 on
-2089768548168376 169
-19 on
-2429113597211646 182
-20 on
-2818143415621374 183
-21 on
-3137835181531486 198
-22 on
-3529541686045178 211
-23 on
-3754469691121215 212
-24 on
-3865992215007765 223
-25 on
-4404062690773425 224
-26 on
-4629562338994257 225
-27 on
-4920481414842037 235
-28 on
-5020525355842889 256
-29 on
-5160184752957418 275
-30 on
-5236879756611656 312
-31 on
-5510928654379728 350
-32 on
-5712211445572497 363
-33 on
-6302444293220509 372
-34 on
-6510384849656221 387
-35 on
-6485852524333810 430
-36 on
-6663317812543602 468
-37 on
-7019599727083892 484
-38 off
-6857048431708305 504
-39 on
-7083315107985321 526
-40 on
-7249263076028153 551
-41 on
-7291537078823085 578
-42 on
-7348252295964203 600
-43 off
-7043718926812943 625
-44 off
-6838475059071189 631
-45 on
-6956695072208679 676
-46 off
-6591154995031755 740
-47 off
-6391021078079424 787
-48 off
-6273332564594358 827
-49 on
-6279826782787800 848
-50 off
-6091894071387550 879
-51 off
-5956890864212127 913
-52 off
-5736698249073544 933
-53 off
-5543695616889060 976
-54 on
-5584470034367836 1025
-55 off
-5160757890192606 1046
-56 off
-4958957630218761 1045
-57 off
-4685822888266361 1072
-58 off
-4456327596601829 1094
-59 on
-4819080516439312 1111
-60 off
-4678239871833437 1115
-Part 1: 4678239871833437      (370s)
-Part 2: 0                     (143us)
+#############
+#aa.......CC#
+### # #B#D###
+  # #C#B#D#
+  # #B#A#D#
+  #B#C#A#D#
+  #########
+A 9 9
+B
+C 5 5
+D 9 10 10 10
 
-Process finished with exit code 0
+
+
+#############
+#  . . . .  #
+###A#B#C#D###
+  #A#B#C#D#
+  #A#B#C#D#
+  #A#B#C#D#
+  #########
+A 9 9 5 5 9 9  46
+B 2 3 5 3 4 4 6 7 4 5 5  48
+C 5 5 7 7 6 7 37
+D 9 10 10 10 39
