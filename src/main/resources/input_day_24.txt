@@ -1,47 +1,73 @@
-#############
-#  . ..... .#
-###A#B#C#D###
-  #A#B#C#D#
-  #########
-
-A 8 5 3 8 24
-B 4 3 5 12
-C 6 5 11
-D 7 8 15
-
-
-#############
-#aa.......CC#
-### # #B#D###
-  # #C#B#D#
-  # #B#A#D#
-  #B#C#A#D#
-  #########
-A 9 9
-B
-C 5 5
-D 9 10 10 10
-
-
-
-#############
-#  . . . .  #
-###A#B#C#D###
-  #A#B#C#D#
-  #A#B#C#D#
-  #A#B#C#D#
-  #########
-A 9 9 5 5 9 9  46
-B 2 3 5 3 4 4 6 7 4 5 5  48
-C 5 5 7 7 6 7 37
-D 9 10 10 10 39
-
-1
-
-w = c3
-x = (c23 != "91")
-y = (c3 + 4)
-z = (26*(c0 + 5) + c1 + 9) * (25 *(c23 != "91") + 1)
+inp w
+mul x 0
+add x z
+mod x 26
+div z 1
+add x 10
+eql x w
+eql x 0
+mul y 0
+add y 25
+mul y x
+add y 1
+mul z y
+mul y 0
+add y w
+add y 5
+mul y x
+add z y
+inp w
+mul x 0
+add x z
+mod x 26
+div z 1
+add x 13
+eql x w
+eql x 0
+mul y 0
+add y 25
+mul y x
+add y 1
+mul z y
+mul y 0
+add y w
+add y 9
+mul y x
+add z y
+inp w
+mul x 0
+add x z
+mod x 26
+div z 1
+add x 12
+eql x w
+eql x 0
+mul y 0
+add y 25
+mul y x
+add y 1
+mul z y
+mul y 0
+add y w
+add y 4
+mul y x
+add z y
+inp w
+mul x 0
+add x z
+mod x 26
+div z 26
+add x -12
+eql x w
+eql x 0
+mul y 0
+add y 25
+mul y x
+add y 1
+mul z y
+mul y 0
+add y w
+add y 4
 mul y x
 add z y
 inp w
